@@ -75,15 +75,15 @@ Classification algorithms are widely used in many real-world applications across
 
 
 #### Implementation of Classification Model in Machine Learning
-Let’s get a hands-on experience with how Classification works. We are going to study various Classifiers and see a rather simple analytical comparison of their performance on a well-known, standard data set, the Iris data set.  
+Let’s get a hands-on experience with how Classification works. We are going to study various Classifiers and see a rather simple analytical comparison of their performance on a well-known, standard data set, the admitted students data set.  
 
 ##### Requirements for running the given script:
 
-Python
-Scipy
-Numpy
-Pandas
-matplotlib 
+- Python
+- Scipy
+- Numpy
+- Pandas
+- matplotlib 
 
 #### Conclusion
 In conclusion, classification is a fundamental task in machine learning, involving the categorization of data into predefined classes or categories based on their features.
